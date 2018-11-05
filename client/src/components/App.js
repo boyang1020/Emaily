@@ -7,6 +7,9 @@ const SurveyNew = () => <h2>SurveyNew</h2>
 const Landing = () => <h2>Landing</h2>
 
 class App extends Component {
+    componentDidMount() {
+        
+    }
     render() {
         return(
             <div>
